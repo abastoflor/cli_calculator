@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from prettytable import PrettyTable
 import os
 table0 = PrettyTable()
